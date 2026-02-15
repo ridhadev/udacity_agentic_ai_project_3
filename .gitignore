@@ -1,0 +1,12 @@
+# Environment
+.env
+.env.*
+
+# Folders
+chromadb/
+games/
+
+# Python
+__pycache__/
+
+.DS_Store
